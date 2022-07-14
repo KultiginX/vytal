@@ -1,0 +1,17 @@
+"Id","Name","Description","CategoryId","IsWhiteLabel"
+1,"1250ml Bowl","A standard bowl",1,False
+2,"500ml Bowl","A smaller Bowl",1,False
+3,"750ml Bowl","A medium bowl",1,False
+4,"Sushibox","A box for sushi",1,False
+5,"Cup","A reusable cocktail glass",1,False
+6,"Compartment Bowl","A bowl with two compartments",1,False
+7,"Weckglas","Weckglas",1,True
+8,"Pizzabox","Pizzabox",1,False
+9,"Snackpot","Snackpot",1,False
+10,"Cup_pp 0.3l","A coffee cup made of PP - size 0.3l",1,False
+11,"2250ml Bowl","A large bowl with restricted checkin for Heimkantine",1,True
+12,"Cup_pp 0.2l","A coffee cup made of PP - size 0.2l",1,False
+13,"Glasbox Gastro","A glas container with two compartments",1,True
+14,"Glasbowl","Glasbowl - Milubo Glasbowl",1,False
+15,"2000ml rectangular bowl (""Landgasthof Hartmann"")","2000ml rectangular bowl (nordic green) with restricted checkin to Landgasthof Hartmann",1,False
+16,"Sushi Box tall","Sushi Box tall",NULL,False
