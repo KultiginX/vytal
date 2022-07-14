@@ -1,0 +1,14 @@
+Attributfeld ;Inhalt
+nummer;Eindeutiger 3-stelliger Schlssel, zusammengesetzt aus 1-stelligem Stadtbezirkschlssel + 2-stelliger fortlaufende Nummerierung
+name;Name des Stadtteils
+nr_stbez;Schlssel des bergeordneten Stadtbezirks
+stbezirk;Name des bergeordneten Stadtbezirks
+;
+;
+;
+;
+;
+;
+;
+;
+;
